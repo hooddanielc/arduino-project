@@ -1,0 +1,9 @@
+# Arduino Makefile Example
+
+## For Ubuntu
+
+```
+sudo apt-get install arduino
+sudo apt-get install arduino-mk
+make
+```
